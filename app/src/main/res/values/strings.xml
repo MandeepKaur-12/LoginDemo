@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LoginDemo</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="login_id">Login ID</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account,</string>
+    <string name="username">Username</string>
+    <string name="welcome">Welcome,</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="sign_up_to_continue">Sign up to get started</string>
+    <string name="new_here">Don\'t have an account?</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="user">User</string>
+
+</resources>
